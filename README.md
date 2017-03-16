@@ -3,8 +3,8 @@
 ## Objectives
 + Explain what hoisting is
 + Explain why hoisting is important to remember
-
-## What Is Hoisting
+ 
+## What Is Hoisting s
 
 JavaScript has a well-intentioned trick that can often lead to trouble (and nowadays, even when the trick is used well, it can make code less readable). Here's the gist:
 
